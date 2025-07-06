@@ -1,1 +1,1 @@
-echo "Hello, Git and GitHub!" > hello.txt
+Hello, Git and GitHub!
